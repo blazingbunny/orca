@@ -171,7 +171,7 @@
     "clsx": "^2.1.1",
     "cmdk": "^1.1.1",
     "dompurify": "^3.4.11",
-    "electron": "^43.1.0",
+    "electron": "^43.7.0",
     "electron-builder": "^26.8.1",
     "electron-vite": "^5.0.0",
     "emoji-picker-react": "^4.19.1",
